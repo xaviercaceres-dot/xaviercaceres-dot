@@ -14,7 +14,7 @@ Estudiante avanzado de **Ingeniería en Sistemas de Información** (UTN-FRT) ori
 `Kali Linux` `Bash Scripting` `OWASP Top 10` `Active Directory` `Cisco Packet Tracer` `VirtualBox`
 
 **Desarrollo de Software (Backend):**  
-`C#` `.NET Core` `Java` `APIs REST` `MVC` `Git/GitHub`
+`C#` `.NET Core` `APIs REST` `MVC` `Git/GitHub`
 
 **Bases de Datos & Frontend:**  
 `SQL Server` `MySQL` `JavaScript` `React` `Tailwind CSS`
