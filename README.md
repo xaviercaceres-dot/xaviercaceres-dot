@@ -8,6 +8,7 @@ Estudiante avanzado de **Ingeniería en Sistemas de Información** (UTN-FRT) ori
 - 🌐 **Redes de Datos e Infraestructura:** Conocimientos prácticos en diseño de topologías, algoritmos de subnetting IPv4, estándares de seguridad inalámbrica (WPA2/WPA3), implementación de VPNs y monitoreo de redes (PRTG, The Dude).
 - 🌱 Actualmente busco mi primera experiencia profesional en IT para aportar valor mientras continúo formándome en desarrollo backend y seguridad informática.
 
+---
 ### 💻 Stack Tecnológico
 
 **Seguridad, Redes & Operaciones:**  
@@ -32,10 +33,29 @@ Estudiante avanzado de **Ingeniería en Sistemas de Información** (UTN-FRT) ori
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45" style="margin-right: 10px;"/>
 </p>
 
+---
+
+---
+
 ### 🏆 Proyectos y Laboratorios
-* **Auditoría y Monitoreo de Red (Laboratorio):** Configuración de topologías de red, simulación de tráfico y desarrollo de scripts en Bash para la auditoría de entornos Linux.
-* **[Sistema de Ventas Transaccional](https://github.com/xaviercaceres-dot/Sistema_Ventas)**: Desarrollo backend en Java aplicando estrictamente el Paradigma Orientado a Objetos para garantizar la integridad de los datos en la gestión comercial.
-* **API REST Multicapa (.NET):** Diseño de un servidor backend escalable priorizando la separación de responsabilidades y la seguridad de los endpoints.
+
+**[Sistema de Ventas Transaccional](https://github.com/xaviercaceres-dot/Sistema_Ventas)**  
+Desarrollo backend en Java aplicando estrictamente el Paradigma Orientado a Objetos para garantizar la integridad de los datos en la gestión comercial e inventario.  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="22" />
+
+<br>
+
+**API REST Multicapa (.NET)**  
+Diseño de un servidor backend escalable priorizando la separación de responsabilidades (MVC) y la seguridad de los endpoints.  
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="22" />
+
+<br>
+
+**Auditoría y Monitoreo de Red (Laboratorio)**  
+Configuración de topologías de red, simulación de tráfico y desarrollo de scripts en Bash para la auditoría de entornos locales.  
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="22" />
+
+---
 
 ### Contacto:
 
