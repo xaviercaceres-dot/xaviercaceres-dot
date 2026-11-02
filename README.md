@@ -1,7 +1,7 @@
 # Hola, soy Xavier Cáceres 👋
 
 Estudiante avanzado de **Ingeniería en Sistemas de Información** (UTN-FRT) orientando mi carrera profesional hacia la cultura y arquitectura **DevSecOps**. Mi objetivo es integrar el ciclo de vida del desarrollo de software con la administración de infraestructura y la ciberseguridad desde el diseño.
-
+---
 ### 🚀 Sobre mí
 - 🛡️ **Seguridad e Investigación:** Apasionado por la ciberseguridad. Mantengo un entorno de pruebas virtualizado (Kali Linux / Windows 10) e investigo activamente vulnerabilidades web (OWASP Top 10) y resolución de CTFs (Hacker101).
 - 💻 **Desarrollo de Software:** Aplico principios sólidos de ingeniería para construir aplicaciones seguras. Experiencia en diseño de APIs REST, arquitectura multicapas (MVC), Programación Orientada a Objetos y código limpio, trabajando principalmente con **C# y .NET**.
@@ -32,8 +32,6 @@ Estudiante avanzado de **Ingeniería en Sistemas de Información** (UTN-FRT) ori
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45" style="margin-right: 10px;"/>
 </p>
-
----
 
 ---
 
